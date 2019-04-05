@@ -1,0 +1,16 @@
+{
+    "name": "screepsmod-room-tool",
+    "version": "0.1.0",
+    "description": "Provides utility functions for room settings which aren't immediately obvious through the CLI such as novice rooms.",
+    "main": "index.js",
+    "author": "Ricky Talbot <rickytalbot@hotmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.15.3",
+        "lodash": "^3.10.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/cooliojazz/screepsmod-room-tool.git"
+    }
+}
